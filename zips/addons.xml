@@ -14,7 +14,7 @@
 </addon>
 
 <addon id="service.pics"
-    name="pics" version="1.0.5" provider-name="dark">
+    name="pics" version="1.0.7" provider-name="dark">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
   </requires>
@@ -28,7 +28,7 @@
 </addon>
 
 <addon id="service.picsnew"
-    name="pics" version="1.0.0" provider-name="dark">
+    name="pics" version="1.0.1" provider-name="dark">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
   </requires>
