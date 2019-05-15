@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.secRepo" name="secRepo" version="1.0.0" provider-name="secRepo">
+<addon id="repository.secRepo" name="secRepo" version="1.0.1" provider-name="secRepo">
 	<extension point="xbmc.addon.repository" name="kidsRepo">
-		<info compressed="false">http://cha1m.com/dark/kidsRepo/zips/addons.xml</info>
-		<checksum>http://cha1m.com/dark/kidsRepo/zips/addons.xml.md5</checksum>
-		<datadir zip="true">http://cha1m.com/dark/kidsRepo/zips/</datadir>
+		<info compressed="false">http://cha1m.com/dark/jafar/zips/addons.xml</info>
+		<checksum>http://cha1m.com/dark/jafar/zips/addons.xml.md5</checksum>
+		<datadir zip="true">http://cha1m.com/dark/jafar/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>secRepo</summary>
